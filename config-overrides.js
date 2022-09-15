@@ -1,5 +1,5 @@
 const { override, fixBabelImports } = require('customize-cra');
-const SentryCliPlugin = require('@sentry/webpack-plugin');
+// const SentryCliPlugin = require('@sentry/webpack-plugin');
 
 module.exports = function override(config, env) {
 //   config.devtool = 'source-map';

@@ -1,0 +1,8 @@
+[auth]
+token=65b4b29a195a45b79dcd63e5f56e6fc8e67ab74d90cb44f5b42f0e7c8b40cb9d   // token 获取 图片所示
+
+
+[defaults]
+url=https://sentry.io/   // sentry地址
+org=f8df7635c859   // 获取org,上图所示
+project=javascript   // 创建的项目名

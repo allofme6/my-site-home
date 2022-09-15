@@ -2,11 +2,6 @@ import logo from './logo.svg'
 import './App.css'
 
 function App() {
-    const a = () => {
-        console.log('a.snow', a.snow.className)
-    }
-    a()
-
     return (
         <div className="App">
             <header className="App-header">
